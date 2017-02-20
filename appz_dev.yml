@@ -2,7 +2,7 @@ application:
  - app_name : Rhel App
    app_business_name : Ratings
    app_code  : Rhl123
-   app_cost_center : "56991788434"
+   app_cost_center : "569917884341234"
    app_status  : active
    
    
