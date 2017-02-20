@@ -1,5 +1,5 @@
 application:
- - app_name : Rhel App
+ - app_name : CB Rhel App
    app_business_name : Ratings
    app_code  : Rhl123
    app_cost_center : "569917884341234"
@@ -7,7 +7,7 @@ application:
    
    
 build_setup :
- - build_major_minor_version : 30.0
+ - build_major_minor_version : 50.0
    artifact_name : Rhel7.jar
    artifacts_add_db : false
    artifacts_file_path : dist
